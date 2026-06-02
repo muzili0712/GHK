@@ -2,17 +2,13 @@
     "spider": "./spider.jar"
     "wallpaper":"http://tool.teyonds.com/api",
     "sites": [
-    {
-      "api": "csp_Nostr",
-      "click": "",
-      "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html",
-      "id": "e39d972b61b4b874816f67cf3aa0bde5",
-      "key": "Nostr",
-      "name": "🍅┃Nostr┃推荐",
-      "playUrl": "",
-      "type": 3,
-      "webHome": true
-    },
+   {
+    "key": "Nostr",
+    "name": "Nostr推荐",
+    "type": 3,
+    "api": "csp_Nostr",
+    "homePage": "./nostr.html"
+  },
 		{
       "key": "非凡",
       "name": "🐬非凡影视",
