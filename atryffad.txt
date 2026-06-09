@@ -92,7 +92,6 @@ CHC家庭电影,http://atryffad.usa3.345123.xyz/jrw.php?id=chcfamily
 大湾区卫视,http://atryffad.usa3.345123.xyz/jrw.php?id=dwqws
 
 香港,#genre#
-
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvTvbJade
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=TVBjadeHDHK
 翡翠台,http://atryffad.usa3.345123.xyz/jrw.php?id=tvbjade
@@ -162,12 +161,15 @@ POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvPopC
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=POPCHK
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=AnimaxHKBG
 POP C,http://atryffad.usa3.345123.xyz/jrw.php?id=179
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN
 Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHKHD#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCNHD
-Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHKCN
+Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguMoviesCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBGTHK
 Now爆谷台,http://atryffad.usa3.345123.xyz/jrw.php?id=187
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHKHD
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCNHD
-Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowBaoguSuperstarsCN#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
+Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowXYTHKCN
 Now星影台,http://atryffad.usa3.345123.xyz/jrw.php?id=186
 Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
 Now华剧台,http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseOperaHK#http://atryffad.usa3.345123.xyz/jrw.php?id=NowChineseDramaChannelHKBG
@@ -322,7 +324,6 @@ mySUPER直播足球5台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports5
 mySUPER直播足球6台,http://atryffad.usa3.345123.xyz/jrw.php?id=MytvSports6
 
 台湾,#genre#
-
 中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvtwhd
 中视,http://atryffad.usa3.345123.xyz/jrw.php?id=ctv
 中视新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnews#http://atryffad.usa3.345123.xyz/jrw.php?id=ctvnewslm
@@ -516,7 +517,6 @@ VOA美国之音,http://atryffad.usa3.345123.xyz/jrw.php?id=voa
 国会频道2,https://www.youtube.com/watch?v=RAP4h3q6_Sg
 
 新闻,#genre#
-
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=globalnews
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=Globalnewshd
 寰宇新闻,http://atryffad.usa3.345123.xyz/jrw.php?id=147
