@@ -10,6 +10,13 @@
         "api": "csp_海豚影视",
         "homePage": "https://fgblh.github.io/uhuj.github.io/海豚影视.html"
         },
+		{
+            "key": "Nostr",
+            "name": "🐬Nostr推荐",
+            "type": 3,
+            "api": "csp_Nostr",
+            "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
+        },
         {
          "key":"AQY",
         "name":"🐬爱奇艺 海豚影视完全免费，如有收费的都是骗子",
@@ -528,13 +535,6 @@
             "changeable": 1
         },
         {
-            "key": "Nostr",
-            "name": "Nostr推荐",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://www.252035.xyz/xs/tvbox/nostr.html"
-        },
-        {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
             "type": 3,
@@ -553,13 +553,6 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        },
-        {
-            "key": "Nostr测试",
-            "name": "测试",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://www.252035.xyz/xs/tvbox/test.html"
         },
         {
             "key": "本地",
