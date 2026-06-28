@@ -58,13 +58,19 @@
          "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
          "ext": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
         },
-    {
+        {
+			"key": "fY",
+			"name": "🐬枫叶影院.py(关梯子使用)",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/枫叶影院.py"
+		},
+		{
         "key":"FY",
         "name":"🐬枫叶影院(关梯子使用)",
         "type":3,
         "api":"csp_fy",
         "homePage":"https://fgblh.github.io/uhuj.github.io/枫叶🍁.html"
-      },
+       },
 		 {
         "key":"6v",
         "name":"🐬6V影视",
