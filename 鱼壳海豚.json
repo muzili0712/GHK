@@ -481,6 +481,12 @@
         "海外动漫"
          ]
          },  
+		{
+			"key": "MiFun",
+			"name": "🐬MiFun动漫.py",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/MiFun动漫.py"
+		},
         {
       "key": "cj_360资源",
       "name": "🐬360[短剧]",
