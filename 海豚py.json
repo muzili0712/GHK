@@ -108,12 +108,6 @@
 			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/咖啡直播.py"
 		},
 		{
-			"key": "SMT",
-			"name": "🐬SMT.py",
-			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/SMT.py"
-		},
-		{
 			"key": "sm",
 			"name": "🐬韩国熊猫直播.py",
 			"type": 3,
