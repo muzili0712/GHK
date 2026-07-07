@@ -8,7 +8,7 @@ from base.spider import Spider
 class Spider(Spider):
 
     def init(self, extend="{}"):
-        self.host='https://zh.stripchat.com/'
+        self.host='https://zh.pikpedcams.com/'
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0'
         }
