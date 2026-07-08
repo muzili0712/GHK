@@ -81,7 +81,7 @@ class Spider(Spider):
                 "vod_id": name,
                 "vod_name": f"{flag}{name}",
                 "vod_pic": f"https://img.doppiocdn.net/thumbs/{stamp}/{id}",
-                "vod_remarks": remark
+                "vod_remarks": "购票表演中" if vod['groupShowType'] else ""
             })
         total = int(rsp['filteredCount'])
         result = {}
